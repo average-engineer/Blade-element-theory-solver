@@ -1,2 +1,2 @@
 # Blade-element-theory-solver
-Solver for computing propeller performance characteristics using Blade Element Theory
+Solver for computing propeller performance characteristics using Blade Element Momentum Theory, which is the combination of the tradiational blade element theory and the actuator disc theory. This solver can be used as a first order propeller design tool and was developed as an auxilliary project to my undergraduate thesis project. As an example, the code uses a propeller having
